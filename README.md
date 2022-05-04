@@ -5,6 +5,8 @@ Chatbot made in Python using Natural Language Toolkit especially Machine Learnin
 ![Live CHATBOT-2](https://user-images.githubusercontent.com/28294942/134822533-35c1e851-1dde-44d6-9113-39dff062239f.gif)
 
 
+### Youtube Explanation : https://youtu.be/tLormT06XS0
+
 ### Chatbot: 
 A chatbot is software that simulates human-like conversations with users via text messages on chat.
 
@@ -57,4 +59,4 @@ If you Like Idea/ Research Paper/Project then Mail or Click on Star buttonğŸ™ğŸ
 
 ### CSE PROJECTS: [LINK](https://www.cse-projects.com)
 
-
+### Youtube Implementation of project : https://youtu.be/tLormT06XS0
